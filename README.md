@@ -1,7 +1,6 @@
-# This is for read the text of the changes (syntactic.txt pragmatic.txt and semantic.txt) for make the changes of the text inside the app easyer. 
-# It converts the .text to variables.
+##### This is for read the text of the changes (syntactic.txt pragmatic.txt and semantic.txt) for make the changes of the text inside the app easyer. It converts the .text to variables.
 
--**syntactic.txt:**
+- **syntactic.txt:**
 ```
 hola mundo!
 Example: this is an example#
@@ -10,7 +9,7 @@ Note: if u want
 u can put a note here,
 and then into the app appears a button "note"#
 ```
--**opened with this software:**
+- **opened with this software:**
 
 ```
 var uses = [
@@ -32,7 +31,7 @@ var notes = [
 ];
 ```
 
-##### if u dont want to put any thing here u can put null.
+#### if u dont want to put any thing here u can put null.
 
 ```
 hola mundo!
@@ -41,9 +40,8 @@ Correction: null#
 Note: null#
 ```
 
-##### if u want to put more than 1 item u have to divide'em with "DIVPREGUNTAS"
+#### if u want to put more than 1 item u have to divide'em with "DIVPREGUNTAS"
 
-ex:
 ```
 hola mundo 1!
 Example: this is an example#
@@ -61,6 +59,6 @@ Correction: null#
 Note: null#
 ```
 
-# the "#" marks the end of the item, if u put # anywere the things next to it going to be ignored.
+#### the "#" marks the end of the item, if u put # anywere the things next to it going to be ignored.
 
-# IF U DONT WANT TO PUT AN EXAMPLE, CORRECTION OR NOTE PLEASE USE "null" IF U DONT, IT GONNA CRASH.
+# **IF U DONT WANT TO PUT AN EXAMPLE, CORRECTION OR NOTE PLEASE USE "null" IF U DONT, IT GONNA CRASH.**
