@@ -1,4 +1,4 @@
-##### This is for read the text of the changes (syntactic.txt pragmatic.txt and semantic.txt) for make the changes of the text inside the app easyer. It converts the .text to variables.
+##### This is for read the text of the challenges (syntactic.txt pragmatic.txt and semantic.txt) for make the changes of the text inside the app easyer. It converts the .text to variables.
 
 - **syntactic.txt:**
 ```
